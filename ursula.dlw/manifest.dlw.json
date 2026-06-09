@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "URSULA",
+  "universe": "U1 · Le Guin",
+  "moniker": "⟦URSULA:U1:60c7c7⟧",
+  "carbon": "ursula.carbon.tiff (TIFF)",
+  "silicon": "ursula.silicon.png (PNG)",
+  "seal_sha256": "fb6fdf5263e59d835b7ae0b29bc54b99af63d4427b24cf561f80ffd9c84e7203",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

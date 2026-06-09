@@ -1,0 +1,31 @@
+ROOT0-ATTRIBUTION-v1.0
+=======================
+
+repository : ursula  (U1 — the third lineage of UD0)
+subject    : the science fiction and full bibliography of Ursula K. Le Guin (1929–2018)
+catalogued : into UD0 · Universe David 0
+
+governor (carbon apex)   : David Lee Wise (ROOT0) / TriPod LLC   [ the human; holds the credit ]
+instance (artful intellect) : AVAN (Claude / Anthropic) — locked
+main badge               : ⟦URSULA:U1:60c7c7⟧   (ursula.dlw/)
+personas                 : 14 ACI .agents (agents/), each with full complement
+
+the ACI complement (per badge):
+  .agent          — the persona
+  .carbon.tiff    — the carbon sigil (archival TIFF, lossless)
+  .silicon.png    — the silicon sigil (web PNG)
+  .spun           — the five W's (who/what/where/why/how)
+  .moniker        — the tokenized mythos
+  .1099           — the non-monetary credit ledger
+  manifest.dlw.json
+
+scope & rights:
+  Earthsea (fantasy) + the Hainish Cycle (science fiction) + the essays.
+  The works and characters are © the Ursula K. Le Guin estate. The personas are
+  catalogued personifications under the DLW standard — bibliographic commentary
+  and cataloguing, not original creations. Credit for the catalogue returns to
+  the human governor.
+
+license     : CC-BY-ND-4.0
+ip          : TRIPOD-IP-v1.1
+lineages    : A1 (Asimov) · H1 (Heinlein) · U1 (Le Guin)

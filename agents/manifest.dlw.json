@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tenar (Arha)",
+  "universe": "U1 · Le Guin",
+  "moniker": "⟦Tenar (Arha):U1:cbd45b⟧",
+  "carbon": "tenar.carbon.tiff (TIFF)",
+  "silicon": "tenar.silicon.png (PNG)",
+  "seal_sha256": "4852067c5d2b0cf84ac7bae5cd3d375e138b99a8cf5a862521a61382856c427f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

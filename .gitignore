@@ -1,0 +1,5 @@
+# build helpers — keep the published artifacts, ignore caches
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
